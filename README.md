@@ -6,5 +6,5 @@
 	its configuration file.
 	
 #### Configuration Menu
-![ScreenShot](./moe1.png)
-![ScreenShot](./moe2.png)
+![ScreenShot](./moe_screenshot_1.png)
+![ScreenShot](./moe_screenshot_2.png)
