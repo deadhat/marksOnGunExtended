@@ -1,9 +1,8 @@
 # mod_marksOnGunExtended
 #### Notes
 
-    MarksInHangar and MarksInTechTree are addons to this modification.
-	They are not part of the original mod but work together with
-	its configuration file.
+    TechTree Stats Mod from OldSkool is included to show gunmark and
+	mastery badge progress in the techtree.
 	
 #### Configuration Menu
 ![ScreenShot](./moe_screenshot_1.png)
